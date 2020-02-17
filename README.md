@@ -1,6 +1,8 @@
 # VuObjProg2Uzd
 Antras programavimo uždavinys
+
 Studento įvertinimo ir medianos skaičiuoklė.
+
 Paulius Mykolaitis ISI I grupė, II pogrupis
 
 # Kaip paleisti programą?
